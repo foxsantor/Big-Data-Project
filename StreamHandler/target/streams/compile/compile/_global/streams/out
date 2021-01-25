@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Syndrom\Documents\AminFP\StreamHandler\src\main\scala\streamHandler.scala:44:79: overloaded method value map with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  [U](func: org.apache.spark.api.java.function.MapFunction[org.apache.spark.sql.Row,U], encoder: org.apache.spark.sql.Encoder[U])org.apache.spark.sql.Dataset[U] <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  [U](func: org.apache.spark.sql.Row => U)(implicit evidence$6: org.apache.spark.sql.Encoder[U])org.apache.spark.sql.Dataset[U][0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to ()[0m
+[0m[[0m[31merror[0m] [0m[0m			val alteredDF = spark.sql("SELECT * FROM suicide_data WHERE sex = female").map()[0m
+[0m[[0m[31merror[0m] [0m[0m			                                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

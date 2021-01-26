@@ -353,3 +353,19 @@ WARNING: Unmatched cancel notification for request id 1924
 [0m2021.01.25 06:33:51 WARN  no build target for: C:\Users\Syndrom\Documents\AminFP\StreamHandler\src\main\scala\streamHandler.scala[0m
 [0m2021.01.25 06:33:58 WARN  no build target for: C:\Users\Syndrom\Documents\AminFP\StreamHandler\src\main\scala\streamHandler.scala[0m
 [0m2021.01.25 06:39:46 INFO  shutting down Metals[0m
+[0m2021.01.25 06:50:56 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Syndrom\Documents\Dataframes Project' for client vscode 1.52.1.[0m
+[0m2021.01.25 06:50:57 INFO  time: initialize in 0.4s[0m
+[0m2021.01.25 06:50:58 WARN  Build server is not auto-connectable.[0m
+[0m2021.01.25 06:50:58 WARN  no build tool detected in workspace 'C:\Users\Syndrom\Documents\Dataframes Project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Jan 25, 2021 7:10:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.01.25 07:37:14 INFO  shutting down Metals[0m
+[0m2021.01.26 07:52:15 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Syndrom\Documents\Dataframes Project' for client vscode 1.52.1.[0m
+[0m2021.01.26 07:52:16 INFO  time: initialize in 0.65s[0m
+[0m2021.01.26 07:52:18 WARN  Build server is not auto-connectable.[0m
+[0m2021.01.26 07:52:18 WARN  no build tool detected in workspace 'C:\Users\Syndrom\Documents\Dataframes Project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.01.26 08:21:20 INFO  shutting down Metals[0m
+[0m2021.01.26 08:21:50 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Syndrom\Documents\Dataframes Project' for client vscode 1.52.1.[0m
+[0m2021.01.26 08:21:50 INFO  time: initialize in 0.48s[0m
+[0m2021.01.26 08:21:51 WARN  Build server is not auto-connectable.[0m
+[0m2021.01.26 08:21:51 WARN  no build tool detected in workspace 'C:\Users\Syndrom\Documents\Dataframes Project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m

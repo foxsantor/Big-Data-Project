@@ -1,6 +1,11 @@
-This Project is divided into two Parts :
+This Project is divided into three Parts :
 
-First part : casual queries using spark and a csv file under the file Spark.py submit it to spark while uncommenting the lines to see the various changes.
+First part : casual queries using spark/spark streaming and a csv file under the files:
+ Spark.py regarding suicide_rates stats,
+ sparkstreaming.py for the IMBD_INDIA and
+ SparkStreamingCO2 for co2 Emission
+ 
+ submit each file to spark while uncommenting the lines to see the various changes if needed.
 
 Second part : consists of getting the csv data from a kafka producer then streaming the data live while applying queries utilizing spark streaming.
 
@@ -35,4 +40,10 @@ Make sure everything is in place if the jar was not found in the target folder, 
 Each time you need to build the project using the sbt package command as running all the queries is resource consuming because the data is being streamed and altered real time.
  
 
+third part is regarding machine learing :
 
+no requirement needed apart from spark 3.0.1.
+
+you will find the algorithms respectively in :
+sparkML : using suicide_rates stats DATAFRAME
+SparkML folder : regarding IMBD_INDIA DF 

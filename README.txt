@@ -45,5 +45,7 @@ third part is regarding machine learing :
 no requirement needed apart from spark 3.0.1.
 
 you will find the algorithms respectively in :
-sparkML : using suicide_rates stats DATAFRAME
-SparkML folder : regarding IMBD_INDIA DF 
+sparkML.py : using suicide_rates stats DATAFRAME
+SparkML folder isnide SparkML.py  : regarding IMBD_INDIA DF
+SparkML_CO2.py : usiing CO2_Emissions data  
+indepth description will be assiocited inside the files.

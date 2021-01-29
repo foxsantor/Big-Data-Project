@@ -48,4 +48,4 @@ you will find the algorithms respectively in :
 sparkML.py : using suicide_rates stats DATAFRAME
 SparkML folder isnide SparkML.py  : regarding IMBD_INDIA DF
 SparkML_CO2.py : usiing CO2_Emissions data  
-indepth description will be assiocited inside the files.
+indepth description will be found inside the files.
